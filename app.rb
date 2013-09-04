@@ -15,6 +15,7 @@ module Project
     end
 
     before do
+      @jquery_version = '2.0.3'
       @site_title = 'Site Title'
     end
 
